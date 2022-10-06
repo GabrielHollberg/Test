@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/gthollberg/Repo/Test",
+            "binaryPath": "/home/gthollberg/Repo/Test/main",
+            "binaryArgs": []
+        }
+    ]
+}
